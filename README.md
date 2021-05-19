@@ -17,10 +17,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supatk&layout=compact&theme=dark)]
-![Supat's GitHub stats](https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supatk&layout=compact&theme=dark)
+![Supat's GitHub stats](https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supatk&theme=dark)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supatk&repo=supatk&theme=dark)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supatk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
