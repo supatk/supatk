@@ -40,8 +40,8 @@
 
 ## My Stat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supatk&layout=compact&theme=dark&hide_border=true)](https://github.com/supatk)
-![Supat's GitHub stats](https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&theme=dark&hide_border=true)
+[![Supat's GitHub stats](https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&theme=dark&hide_border=true)](https://github.com/supatk)
 
 ## My Repo
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supatk&repo=supatk&theme=dark&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supatk&repo=supatk&theme=dark&hide_border=true)](https://github.com/supatk)
 
