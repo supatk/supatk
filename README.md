@@ -3,7 +3,7 @@
 
 ## Languages and Tools
 
-### Tool
+### Tools
 <code><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" height="50" /></code>
 <code><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" height="50" /></code>
 <code><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" height="50" /></code>
