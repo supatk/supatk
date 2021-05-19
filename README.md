@@ -15,9 +15,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## My Stat
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supatk&layout=compact&theme=dark)
-![Supat's GitHub stats](https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supatk&layout=compact&theme=dark&hide_border=true)
+![Supat's GitHub stats](https://github-readme-stats.vercel.app/api?username=supatk&show_icons=true&theme=dark&hide_border=true)
 
 ## My Repo
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supatk&repo=supatk&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supatk&repo=supatk&theme=dark&hide_border=true)
 
